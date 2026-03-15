@@ -10,7 +10,7 @@
     "description": "DaemonMC PTERODACTYL EGG",
     "features": [],
     "docker_images": {
-        "ghcr.io/ptero-eggs/yolks:dotnet_8": "ghcr.io/ptero-eggs/yolks:dotnet_8"
+        "ghcr.io/ptero-eggs/yolks:dotnet_10": "ghcr.io/ptero-eggs/yolks:dotnet_10"
     },
     "file_denylist": [],
     "startup": "./start.sh",
