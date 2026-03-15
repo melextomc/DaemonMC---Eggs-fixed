@@ -3,5 +3,7 @@
     "name": "DaemonMC Usage",
     "author": "MelextoDev",
     "Version": "1.0.30-Alpha",
-    "DLL_AGE": "2 Weeks"
+    "DLL_AGE": "2 Weeks",
+
+    "COPYRIGHT": "this file is not supposed to be used as a PTERODACTYL egg as it is not working please use EGG-DAEMONDMC.json this file should not be used"
 }
