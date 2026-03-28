@@ -5,9 +5,9 @@
         "update_url": "https://raw.githubusercontent.com/melextomc/DaemonMC---Eggs-fixed/refs/heads/main/egg-daemonmc.json"
     },
     "exported_at": "2026-03-23T17:19:28+00:00",
-    "name": "DaemonMC",
-    "author": "DaemonMC@github.com",
-    "description": "DaemonMC PTERODACTYL EGG",
+    "name": "Vastria EGG",
+    "author": "Vastria@github.com",
+    "description": "Vastria PTERODACTYL EGG",
     "features": [],
     "docker_images": {
         "ghcr.io/ptero-eggs/yolks:dotnet_10": "ghcr.io/ptero-eggs/yolks:dotnet_10",
